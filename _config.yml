@@ -1,3 +1,6 @@
+# add Jekyll
+remote_theme: Minchi-Tsai/portfolio
+
 # add the following to _config.yml file
 title: Minchi Tsai
 theme: jeykll-theme-minimal
