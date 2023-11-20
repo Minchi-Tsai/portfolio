@@ -2,7 +2,7 @@
 Technical Skills: Python, SQL, R, AWS, Git
 
 ### Education
-MS. in Statistics Analytics Northeastern University (May 2022) US
+MS. Statistics Analytics | Northeastern University (May 2022) US
 BS. in Bioinformatics Southeast University (Jun 2018) CN
 
 ### Work Experience
