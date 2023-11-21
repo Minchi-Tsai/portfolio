@@ -2,8 +2,8 @@
 Technical Skills: Python, SQL, R, AWS, Git
 
 ### Education
-MS. Statistics Analytics | Northeastern University (May 2022) US
-BS. in Bioinformatics Southeast University (Jun 2018) CN
+MS. Statistics Analytics | Northeastern University, US (_May 2022_)   
+BS. Bioinformatics | Southeast University, CN (_Jun 2018_)
 
 ### Work Experience
 Data Scientist/Engineer @ Zerologix
@@ -16,8 +16,8 @@ Data Scientist/Engineer @ Zerologix
 Data Scientist Intern @ Asu
 
 Product Data Scientist @ Caredash
-- Design and analyze A/B testing
-- Build a Dashboard using Looker displaying KPIs using Google Analytics data
+- Design and analyze A/B testing during product development to investigate and validate feature impacts
+- Build a Dashboard using Looker to present real-time KPIs in Google Analytics
 
 ### Projects
 **Market Analysis for JURA Bio, Inc**
