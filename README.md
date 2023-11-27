@@ -1,4 +1,4 @@
-# 
+
 <h1 align='center'>
   Min-Chi Tsai,  Data Scientist
 </h1>
@@ -6,10 +6,10 @@
 <p align='left'>
   Technical Skills: Machine Learning, Natural Language Processing (NLP), Python, SQL, R, AWS, Git
   <a href="https://www.linkedin.com/in/min-chi-tsai/">
-    <img  align="right"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img  align="right"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      width="100"/>
   </a>&nbsp;&nbsp;
 </p>
-  
 
 
     
