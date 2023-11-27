@@ -34,8 +34,8 @@ Data Scientist Intern @ Ascensus, US  (_Jan 2022_ - _May 2022_)
 - **Presentation**: Presented a comprehensive analysis report concentrating on the enhancement of customer service processes, incorporating an executive summary to provide strategic insights and support decision-making.
 
 Product Data Scientist Intern @ Caredash, US (_May 2022_ - _Dec 2022_)
-<img align="right" src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" height="23" />
+<img align="right" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" height="23" />
 - **A/B testing:** Designed and executed A/B tests concentrating on user behavior and preferences; utilized key performance indicators (KPIs) such as selected Page Views(PV) and Clicks to optimize Chatbot flows, raising 3% Click-Through-Action(CTA) .
 - **Business Intelligence:** Built an interactive Looker dashboard integrating real-time web analytics data from Google Analytics and BigQuery, reducing manual labor costs by approximately 10 hours per week.
 - **Communication:** Summarized business requirements for Looker dashboards, facilitating communication with project managers, developers, and business analysts.
