@@ -18,8 +18,8 @@ Data Scientist Intern @ Ascensus, US
 
 Product Data Scientist Intern @ Caredash, US
 - **A/B testing:** Designed and executed A/B tests concentrating on user behavior and preferences; utilized key performance indicators (KPIs) such as selected Page Views(PV) and Clicks to optimize Chatbot flows, resulting in a higher Click-Through-Action(CTA).
-- **Dashboard:** Developed and deployed interactive Looker dashboards, integrating real-time web analytics data from Google Analytics and data pipelines.
-- **Collaboration:** Summarized business requirements for Looker dashboards, facilitating communication with project managers, developers, and business analysts.
+- **Business Intelligence:** Developed and deployed interactive Looker dashboards, integrating real-time web analytics data from Google Analytics and data pipelines.
+- **Communication:** Summarized business requirements for Looker dashboards, facilitating communication with project managers, developers, and business analysts.
 
 ### Projects
 Market Analysis for JURA Bio, Inc
