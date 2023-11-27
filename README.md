@@ -1,5 +1,5 @@
 # Data Scientist
-Technical Skills: Python, SQL, R, Machine Learning, AWS, Git
+Technical Skills: Python, SQL, R, Machine Learning, NLP, AWS, Git
 
 ### Education
 MS. Statistics Analytics | Northeastern University, US (_May 2022_)   
@@ -7,17 +7,17 @@ BS. Bioinformatics | Southeast University, CN (_Jun 2018_)
 
 ### Work Experience
 Data Scientist/Engineer @ Zerologix, TW
-- **Product Analysis:** Worked closely with product managers to align data science initiatives (EDA, Statistical Description) with ad-hoc business needs, resulting in data-driven feature prioritization and improved product performance.
-- **Prediction Models:** Designed and deployed a tuned LSTM predictive model on Databricks, the predictive model achieved 80% accuracy, becoming a selling point for the FinTech website.
-- **Chatbot Development:** Benchmarked LLM models to enable the chatbot to understand and respond to user queries related to trading concepts, market analysis, and investment strategies.
-- **Data Pipelines:** Built up data pipelines between Cloud Platforms to automate the delivery of daily internal customized reports.
+- **Product Analysis:** Collaborated with product managers to drive data-driven decision-making through exploratory data analysis (EDA) and statistical description, influencing improved product performance and prioritization of features.
+- **GenAI Application:** Conducted the development and implementation of a user onboarding AI chatbot leveraging advanced LLM models and prompt engineering techniques, integrated into a trading website, resulting in enhanced user engagement and streamlined onboarding processes.
+- **Prediction Models:** Designed and deployed a tuned LSTM predictive model on Databricks, achieving outstanding performance; the predictive model served as a selling point for a FinTech website.
+- **Data Pipelines:** Established data pipelines between cloud platforms, automating the delivery of daily internal customized reports.
 
 Data Scientist Intern @ Ascensus, US
-- **Statistical Modeling:** Engineered time series forecasting models, including multiple regression methods, designed to optimize internal processes and improve customer retention.
-- **Presentation**: Presented a comprehensive analysis report focused on improving customer service processes, featuring an executive summary for strategic insights and decision-making.
+- **Statistical Modeling:** Designed and implemented time series forecasting models(such as logistics regression and decision trees) to identify key feature importance and relevance to optimize internal processes and enhance customer retention.
+- **Presentation**: Presented a comprehensive analysis report concentrating on the enhancement of customer service processes, incorporating an executive summary to provide strategic insights and support decision-making.
 
 Product Data Scientist Intern @ Caredash, US
-- **A/B testing:** Designed and implemented A/B tests focused on user behavior and preferences, using KPIs like PV and CTA to optimize Chatbot flows for a higher ROI.
+- **A/B testing:** Designed and executed A/B tests concentrating on user behavior and preferences; utilized key performance indicators (KPIs) such as selected Page Views(PV) and Clicks to optimize Chatbot flows, resulting in a higher Click-Through-Action(CTA).
 - **Dashboard:** Developed and deployed interactive Looker dashboards, integrating real-time web analytics data from Google Analytics and data pipelines.
 - **Collaboration:** Summarized business requirements for Looker dashboards, facilitating communication with project managers, developers, and business analysts.
 
