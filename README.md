@@ -2,11 +2,11 @@
 Technical Skills: Python, SQL, R, Machine Learning, NLP, AWS, Git
 
 ### Education
-MS. Statistics Analytics | Northeastern University, US (_May 2022_)   
+MS. Statistics Analytics | Northeastern University, US (_May 2022_)  
 BS. Bioinformatics | Southeast University, CN (_Jun 2018_)
 
 ### Work Experience
-Data Scientist/Engineer @ Zerologix, TW
+Data Scientist/Engineer @Zerologix, TW
 - **Product Analysis:** Collaborated with product managers to drive data-driven decision-making through exploratory data analysis (EDA) and statistical description, influencing improved product performance and prioritization of features.
 - **GenAI Application:** Conducted the development and implementation of a user onboarding AI chatbot leveraging advanced LLM models and prompt engineering techniques, integrated into a trading website, resulting in enhanced user engagement and streamlined onboarding processes.
 - **Prediction Models:** Designed and deployed a tuned LSTM predictive model on Databricks, achieving outstanding performance; the predictive model served as a selling point for a FinTech website.
