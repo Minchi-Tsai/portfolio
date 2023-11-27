@@ -14,7 +14,7 @@
 
     
 ### Education
-MS. Analytics @ Northeastern University, US (_May 2022_)  
+MS. Data Science @ Northeastern University, US (_May 2022_)  
 BS. Bioinformatics @ Southeast University, CN (_Jun 2018_)
 
 ### Work Experience
