@@ -19,17 +19,17 @@ BS. Bioinformatics @ Southeast University, CN (_Jun 2018_)
 
 ### Work Experience
 Data Scientist/Engineer @ Zerologix, TW (_Oct 2022_ - _Present_)
-<img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
-<img align="right" src="https://tinyurl.com/2p9ft7xf" />  
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="23"/>
+<img align="right" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" width="110"/>
+<img align="right" src="https://tinyurl.com/2p9ft7xf" width="110"/>  
 - **Product Analysis:** Collaborated with product managers to drive data-driven decision-making through exploratory data analysis (EDA) and statistical description, influencing improved product performance and prioritization of features.
 - **GenAI Application:** Conducted the development and implementation of a user onboarding AI chatbot leveraging advanced LLM models and prompt engineering techniques, integrated into a trading website, resulting in enhanced user engagement and streamlined onboarding processes.
 - **Prediction Models:** Designed and deployed a tuned LSTM predictive model on Databricks, achieving outstanding performance; the predictive model served as a selling point for a FinTech website.
 - **Data Pipelines:** Established data pipelines between cloud platforms, automating the delivery of daily internal customized reports.
 
 Data Scientist Intern @ Ascensus, US  (_Jan 2022_ - _May 2022_)
-<img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="110" />
+<img align="right" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" height="23" />
 - **Statistical Modeling:** Designed and implemented time series forecasting models(such as logistics regression and decision trees) to identify key feature importance and relevance to optimize internal processes and enhance customer retention.
 - **Presentation**: Presented a comprehensive analysis report concentrating on the enhancement of customer service processes, incorporating an executive summary to provide strategic insights and support decision-making.
 
