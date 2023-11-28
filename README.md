@@ -22,7 +22,7 @@ Data Scientist/Engineer @ Zerologix, TW (_Oct 2022_ - _Present_)
 <img align="right" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" width="110"/>
 <img align="right" src="https://tinyurl.com/2p9ft7xf" width="110"/>  
 - **Product Analysis:** Collaborated with 3+ product managers to drive decision-making through exploratory data analysis (EDA) and descriptive statistics, influencing improved product performance and prioritization of features.
-- **Natural Language Processing:** Developed a GPT chatbot leveraging Prompt Engineering, integrated into a trading website, resulting in enhanced user engagement and streamlined onboarding processes.
+- **GenAI:** Developed a GPT chatbot leveraging Prompt Engineering, integrated into a trading website, resulting in enhanced user engagement and streamlined onboarding processes.
 - **Machine Learning:** Deployed 2+ tuned Neural Network models(LSTM) for qualitative research scenarios, refining data analysis processes and enhancing the depth of understanding of daily market trends.
 - **Data Pipelines:** Established 10+ data pipelines between cloud platforms, automating the delivery of daily internal customized reports.
 
