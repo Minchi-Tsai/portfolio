@@ -32,7 +32,7 @@ Data Scientist Intern @ Ascensus, US  (_Jan 2022_ - _May 2022_)   <img align="ri
 - **Machine Learning:** Developed 2 forecasting models(Logistics Regression and Decision Trees) across 1M+ data to identify key features and relevance to optimize internal processes and enhance customer retention.
 - **Soft Skills**: Presented a comprehensive analysis report concentrating on the enhancement of customer service processes, incorporating an executive summary to provide strategic insights on 10+ products.
 
-Product Data Scientist @ Caredash, US (_Jul 2022_ - _Dec 2022_)
+Product Data Scientist @ Caredash, US (_Jul 2021_ - _Dec 2021_)
 <img align="right" src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" height="23" />
 <img align="right" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" height="23" />
 - **Testing Experiment:** Designed and executed A/B tests concentrating on user behavior and preferences; utilized key performance indicators (KPIs) such as selected Page Views(PV) and Clicks to optimize Chatbot flows, raising 3% Click-Through-Action(CTA).
@@ -41,6 +41,6 @@ Product Data Scientist @ Caredash, US (_Jul 2022_ - _Dec 2022_)
 - **Maintenance:** Performed routine data maintenance tasks to maintain Tableau dashboard integrity and accuracy, utilizing SQL queries in Matomo to troubleshoot and correct anomalies to improve data reliability.
 
 ### Projects
-Market Analysis for JURA Bio, US (_Jan 2022_ - _May 2022_)
+Market Analysis for JURA Bio, US (_Jan 2021_ - _May 2021_)
 - Conducted in-depth market analysis for the cell therapeutics market, providing targeted insights into key trends.
 - Engaged with over 10 professionals specializing in cell therapeutics through interviews, gaining valuable perspectives to inform strategic decision-making.
