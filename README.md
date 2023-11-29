@@ -43,5 +43,3 @@ Product Data Scientist @ Caredash, US (_Jul 2022_ - _Dec 2022_)
 Market Analysis for JURA Bio, Inc
 - Conducted in-depth market analysis for the cell therapeutics market, providing targeted insights into key trends.
 - Engaged with over 10 professionals specializing in cell therapeutics through interviews, gaining valuable perspectives to inform strategic decision-making.
-
-etc...
