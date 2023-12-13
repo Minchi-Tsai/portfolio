@@ -44,3 +44,29 @@ Product Data Scientist @ Caredash, US (_Jul 2021_ - _Dec 2021_)
 Market Analysis for JURA Bio, US (_Jan 2021_ - _May 2021_)
 - Conducted in-depth market analysis for the cell therapeutics market, providing targeted insights into key trends.
 - Engaged with over 10 professionals specializing in cell therapeutics through interviews, gaining valuable perspectives to inform strategic decision-making.
+
+### Achievements:
+Data Platform: 
+1. Ensured pipeline data quality and integrity with effective cleansing techniques.
+2. Ensured project continuity through a quick transition, demonstrating unwavering commitment.
+3. Maintained operations seamlessly, ensuring continuous reliability.
+4. Collaborated, filling knowledge gaps, and provided crucial support during transitions.
+
+Project management:
+1. Identified and met diverse data needs across the company, and developed customized solutions to meet the specific requirements of various stakeholders,
+2. Organized and maintained project documents for streamlined workflows to improve team collaboration and project clarity.
+3. Stayed up-to-date with industry trends in data science and applied insights for informed decision-making.
+
+Data Product:
+1. AI chatbot:  
+- Individually designed, implemented, and developed a PoC within a remarkably tight timeframe of 1 week.
+
+2. Predictive Models: 
+- LSTM Model Enhancement: Refactored and optimized an existing LSTM model, achieving 80% accuracy.
+- New Model Development: Crafted a new predictive model from scratch, aimed at increasing user engagement on the Finlogix website by driving more clicks and attracting new users.
+
+3. Automation Delivery: 
+- Established and streamlined daily reports for the Treasury team, resulting in an enhancement of reconciliation efficiency, saving 3 hours in labor work. 
+
+4. Trading Cup: 
+- Played a pivotal role in the refactoring of the MMR algorithm resulting in a notable decrease in maintenance costs. 
