@@ -40,11 +40,6 @@ Product Data Scientist @ Caredash, US (_Jul 2021_ - _Dec 2021_)
 - **Key Metrics Design:** Communicated with 5+ project managers, developers, and business analysts to define 15+ KPIs for Looker dashboards for visualizing marketing and operation performance.
 - **Maintenance:** Performed routine data maintenance tasks to maintain Tableau dashboard integrity and accuracy, utilizing SQL queries in Matomo to troubleshoot and correct anomalies to improve data reliability.
 
-### Projects
-Market Analysis for JURA Bio, US (_Jan 2021_ - _May 2021_)
-- Conducted in-depth market analysis for the cell therapeutics market, providing targeted insights into key trends.
-- Engaged with over 10 professionals specializing in cell therapeutics through interviews, gaining valuable perspectives to inform strategic decision-making.
-
 ### Achievements:
 Data Platform: 
 1. Ensured pipeline data quality and integrity with effective cleansing techniques.
@@ -66,7 +61,9 @@ Data Product:
 - New Model Development: Crafted a new predictive model from scratch, aimed at increasing user engagement on the Finlogix website by driving more clicks and attracting new users.
 
 3. Automation Delivery: 
-- Established and streamlined daily reports for the Treasury team, resulting in an enhancement of reconciliation efficiency, saving 3 hours in labor work. 
+- Established and streamlined daily reports for the Treasury team, resulting in an enhancement of reconciliation efficiency, saving 3 hours in labor work.
 
-4. Trading Cup: 
-- Played a pivotal role in the refactoring of the MMR algorithm resulting in a notable decrease in maintenance costs. 
+- ### Projects
+Market Analysis for JURA Bio, US (_Jan 2021_ - _May 2021_)
+- Conducted in-depth market analysis for the cell therapeutics market, providing targeted insights into key trends.
+- Engaged with over 10 professionals specializing in cell therapeutics through interviews, gaining valuable perspectives to inform strategic decision-making.
